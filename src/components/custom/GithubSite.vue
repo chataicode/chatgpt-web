@@ -1,8 +1,6 @@
 <template>
   <div class="text-neutral-400">
-    <span>Star on</span>
-    <a href="https://github.com/Chanzhaoyu/chatgpt-bot" target="_blank" class="text-blue-500">
-      GitHub
-    </a>
+    <span>联系我们</span>
+    <a href="chataicode@gmail.com">发送电子邮件</a>
   </div>
 </template>

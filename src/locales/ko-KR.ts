@@ -25,7 +25,7 @@ export default {
     success: '성공',
     failed: '실패',
     verify: '검증',
-    unauthorizedTips: '인증되지 않았습니다. 먼저 확인하십시오.',
+    unauthorizedTips: '활성화 코드를 입력하십시오. 인증이 완료되면 계속 사용할 수 있습니다.',
   },
   chat: {
     newChatButton: '새로운 채팅',

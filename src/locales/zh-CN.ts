@@ -25,7 +25,7 @@ export default {
     success: '操作成功',
     failed: '操作失败',
     verify: '验证',
-    unauthorizedTips: '未经授权，请先进行验证。',
+    unauthorizedTips: '请输入激活码，验证通过即可继续使用。',
   },
   chat: {
     newChatButton: '新建聊天',
@@ -72,6 +72,7 @@ export default {
     httpsProxy: 'HTTPS Proxy',
     balance: 'API余额',
     monthlyUsage: '本月使用量',
+    help: '帮助',
   },
   store: {
     siderButton: '提示词商店',

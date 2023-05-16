@@ -25,7 +25,7 @@ export default {
     success: '操作成功',
     failed: '操作失敗',
     verify: '驗證',
-    unauthorizedTips: '未經授權，請先進行驗證。',
+    unauthorizedTips: '請輸入激活碼，驗證通過即可繼續使用。',
   },
   chat: {
     newChatButton: '新增對話',

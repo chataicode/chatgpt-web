@@ -25,7 +25,7 @@ export default {
     success: 'Success',
     failed: 'Failed',
     verify: 'Verify',
-    unauthorizedTips: 'Unauthorized, please verify first.',
+    unauthorizedTips: 'Please enter the activation code, and you can continue to use it once verified.',
   },
   chat: {
     newChatButton: 'New Chat',
